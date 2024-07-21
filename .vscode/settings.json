@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "python.autoComplete.extraPaths": [
+        "/usr/lib/python3/dist-packages"
+    ],
+    "python.analysis.include": [
+        "/usr/lib/python3/dist-packages"
+    ],
+    "notebook.defaultFormatter": "ms-python.autopep8",
+    "python.analysis.extraPaths": [
+        "/usr/local/lib/python3.8/dist-packages",
+        "/usr/lib/python3/dist-packages"
+    ],
+}
