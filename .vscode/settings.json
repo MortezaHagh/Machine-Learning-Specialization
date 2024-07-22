@@ -1,4 +1,8 @@
 {
+    "files.exclude": {
+        "**/.pyc": true,
+        "**/__pycache__": true
+    },
     "editor.formatOnSave": true,
     "python.autoComplete.extraPaths": [
         "/usr/lib/python3/dist-packages"
